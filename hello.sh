@@ -1,0 +1,3 @@
+#! /bin/user
+
+echo "hello"
